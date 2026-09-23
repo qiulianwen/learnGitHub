@@ -1,3 +1,3 @@
-myaddress:https://github.com/qiulianwen/learnGitHub.git
-local modify to learn conflict
-branch merge
+myaddress:
+https://github.com/qiulianwen/learnGitHub.git
+这里是大一的程算icoding答案
